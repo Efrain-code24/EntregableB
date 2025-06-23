@@ -1,0 +1,5 @@
+body{font-family: Arial, Helvetica, sans-serif;background-color: azure;}
+h1{color:black ;text-align: center;}
+h2{color:black ;text-align: left;}
+fieldset{border: 1px solid black; padding: 10px; margin: 10px;}
+.contenedor{display: flex; flex-wrap: wrap; justify-content: space-between;}
